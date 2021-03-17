@@ -1,0 +1,23 @@
+CarName;fueltype;aspiration;carbody;enginesize;horsepower;peakrpm;Car price
+alfa-romero giulia;gas;std;convertible;130;111;5000;13495
+alfa-romero stelvio;gas;std;convertible;130;111;5000;16500
+alfa-romero Quadrifoglio;gas;std;hatchback;152;154;5000;16500
+audi 100 ls;gas;std;sedan;109;102;5500;13950
+audi 100ls;gas;std;sedan;136;115;5500;17450
+audi fox;gas;std;sedan;136;110;5500;15250
+audi 100ls;gas;std;sedan;136;110;5500;17710
+audi 5000;gas;std;wagon;136;110;5500;18920
+audi 4000;gas;turbo;sedan;131;140;5500;23875
+audi 5000s (diesel);gas;turbo;hatchback;131;160;5500;17859167
+bmw 320i;gas;std;sedan;108;101;5800;16430
+bmw 320i;gas;std;sedan;108;101;5800;16925
+bmw x1;gas;std;sedan;164;121;4250;20970
+bmw x3;gas;std;sedan;164;121;4250;21105
+bmw z4;gas;std;sedan;164;121;4250;24565
+bmw x4;gas;std;sedan;209;182;5400;30760
+bmw x5;gas;std;sedan;209;182;5400;41315
+bmw x3;gas;std;sedan;209;182;5400;36880
+chevrolet impala;gas;std;hatchback;61;48;5100;5151
+chevrolet monte carlo;gas;std;hatchback;90;70;5400;6295
+chevrolet vega 2300;gas;std;sedan;90;70;5400;6575
+dodge rampage;gas;std;hatchback;90;68;5500;5572
